@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DECalorify</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="genderPrompt">Select your Gender</string>
+    <string name="intensityPrompt">Select your Intensity</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="intensity">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+</resources>
